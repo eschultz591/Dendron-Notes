@@ -2,7 +2,7 @@
 id: 4yxhgcodvy2g3u8f7qqzwwm
 title: Ch1-Introduction
 desc: ''
-updated: 1727541742937
+updated: 1727543186473
 created: 1727466238193
 ---
 
@@ -63,7 +63,7 @@ The six New Testament typological texts are (Rom. 5:14; 1 Cor. 10:6, 11; Heb. 8:
 Typology is how we can reconcile the tension in the statements that the Gospel was revealed clearly through the prophets in the past, while also saying the Gospel was hidden and not fully known until the coming of Christ (Rom. 3:21 vs Rom 16:25-27). This view of typology requires a very high view of divine providence and knowledge, and it can be understood as a type of predictive prophesy. 
 
 - **Typology - Promise-Fulfillment**: The types are divinely instituted and revealed to us as history moves on. Typology is revealed in a pattern of "promise-fulfillment" which can be quickly seen in Adam. Adam is a type who is followed by "other Adams" (Noah, Abraham, Israel, David) with these Adams concluding and finding their ultimate fulfillment in Christ Jesus.
-- **Typology - Fortiori (lesser to greater)**: Typology has the quality of escalation as the type is fulfilled in the antitype. The antitype (Christ Jesus) is always greater than the previous types. This escalation is not incremental, and this escalation only occurs fully with the coming of Christ(Rom. 5:14). Given the Adam example, the other Adams after the first still fail in their obedience and it is only completed in Christ's perfect obedience. All of the Davidic Kings fail in their obedience asides from David's greater Son, Christ. The lesser to greater relationship of typology is the basis for the real discontinuity seen in scripture. When the antitype is arrives in history the type meets its *telos* or terminus, and the entire era introduces initials massive changes. This is why the New Testament is entirely focused on Christ, the parts have found their end and purpose in the whole.
+- **Typology - Fortiori (lesser to greater)**: Typology has the quality of escalation as the type is fulfilled in the antitype. The antitype (Christ Jesus) is always greater than the previous types. This escalation is not incremental, and this escalation only occurs fully with the coming of Christ (Rom. 5:14). Given the Adam example, the other Adams after the first still fail in their obedience and it is only completed in Christ's perfect obedience. All of the Davidic Kings fail in their obedience asides from David's greater Son, Christ. The lesser to greater relationship of typology is the basis for the real discontinuity seen in scripture. When the antitype is arrives in history the type meets its *telos* or terminus, and the entire era introduces initials massive changes. This is why the New Testament is entirely focused on Christ, the parts have found their end and purpose in the whole.
 
 **All types find their fulfillment in Christ before they have application to us**
 
