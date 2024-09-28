@@ -2,7 +2,7 @@
 id: 4yxhgcodvy2g3u8f7qqzwwm
 title: Ch1-Introduction
 desc: ''
-updated: 1727543186473
+updated: 1727543299626
 created: 1727466238193
 ---
 
@@ -47,7 +47,7 @@ Biblical theology is needed before systematic theology, because we cannot apply 
 We read the scriptures from three perspectives, textual, epochal, and canonical.
 - **Textual**: The immediate context of scripture. We understand the text in its immediate context, its literary type, its grammar, the structure of its text, etc.
 - **Epochal**: THe context in relation of where the text is in redemptive history. What comes before and after it. This does not mean that there are multiple plans, but that revelation is progressive. While there is debate on how prolific this is, this is best seen in the Old-to-New Testament change. This can be summarized comfortably by following the biblical covenants. The Judaizers failed to understand this and viewed the OT as an ends in itself. Scripture was interpreted in light of Sinai.
-- **Canonical**: The overall perspective. Given that GOd's Word is a unified revelation, the texts must be understood in its relationship to the entire Canon. When we read Scripture from this context we can read Scripture in its fullest context.
+- **Canonical**: The overall perspective. Given that God's Word is a unified revelation, the texts must be understood in its relationship to the entire Canon. When we read Scripture from this context we can read Scripture in its fullest context.
 
 A **theological** reading which can be described as a **grammatical/literary-historical-canonical** reading of Scripture. Promise-Fulfillment motif in Scripture is an example of this all being brought together.
 
@@ -72,7 +72,7 @@ Typology is how we can reconcile the tension in the statements that the Gospel w
         - Isa. 5:1-7 and Hos. 11:1
         - used in Matt. 2:15 and John 15:1-17
         - We as God's people participate in this typological pattern only by virtue of our relationship in Christ. The church is not the antitypical fulfillment of Israel in the first sense, Christ is.
-        - Through our union to Crhist his work becomes ours as his new covenant people
+        - Through our union to Christ his work becomes ours as his new covenant people
 
 
 ## My Thoughts
