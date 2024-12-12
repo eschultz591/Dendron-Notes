@@ -1,20 +1,16 @@
 ---
 id: 0lpmtqyu4768cnwfcbe823b
-title: Root
+title: Notebook Root
 desc: ''
-updated: 1727465508345
+updated: 1734037984760
 created: 1727465508345
 ---
-# Welcome to Dendron
+# Welcome to Eric's Dendron Notebook
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+This is the root of Eric Schultz's Dendron notebook. This website is for His personal use of these notes while away from his computer. I hope you find something interesting or helpful here. 
 
-## Lookup
+# Who is Eric?
+Robert Eric Schultz (preferably Eric) is a a 27 year old Christian currently working in the field of Software Engineering. This notebook will contain subjects from computer science to Christian Theology, and might have some personal notes later.
 
-This section contains useful links to related resources.
+If you need to contact Eric, please reach out to him by email at eschultz591@gmail.com.
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)

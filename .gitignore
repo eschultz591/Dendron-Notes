@@ -42,3 +42,5 @@ drafts/
 
 # Ignore any other files you don't want to track
 # Add specific file paths or patterns below
+
+.next
