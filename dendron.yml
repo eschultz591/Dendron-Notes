@@ -99,7 +99,8 @@ publishing:
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-    siteUrl: https://eschultz591.github.io/DendronNotesPages/.
+    assetsPrefix: /erics-notes
+    siteUrl: https://eschultz591.github.io
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
