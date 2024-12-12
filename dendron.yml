@@ -92,8 +92,8 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Eric's Notes
-        description: Eric's personal
+        title: Dendron
+        description: Personal Knowledge Space
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
